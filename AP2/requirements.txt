@@ -1,0 +1,2 @@
+numpy
+matplotlibpython3 main.py
